@@ -4,7 +4,7 @@
 <img src="https://github.com/Amazingren/NTIRE2025_ESR/blob/main/figs/logo.png" width="400px"/> 
 </div>
 
-# ** To Clone the Repository**
+# **To Clone the Repository**
 ```bash
 git clone https://github.com/surya1604/NTIRE2025_ESR_QuantumRes.git 
 ```
