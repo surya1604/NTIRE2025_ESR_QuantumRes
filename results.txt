@@ -1,2 +1,2 @@
 Model               	Val PSNR  	Val Time [ms] 	Params [M]	FLOPs [G] 	Acts [M]	Mem [M] 	Conv    
-01_MambaIRv2LightModel	27.29     	378.55        	0.790     	76.09     	210.76  	3135.86 	  87    
+
