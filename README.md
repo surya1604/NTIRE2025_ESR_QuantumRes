@@ -1,3 +1,9 @@
+# [NTIRE 2025 Challenge on Efficient Super-Resolution](https://cvlai.net/ntire/2025/) @ [CVPR 2025](https://cvpr.thecvf.com/)
+
+<div align=center>
+<img src="https://github.com/Amazingren/NTIRE2025_ESR/blob/main/figs/logo.png" width="400px"/> 
+</div>
+
 # **Setting Up the Environment**
 
 To ensure all dependencies are installed correctly, create a Conda environment using the provided YAML file:
